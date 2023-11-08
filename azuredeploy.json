@@ -5,7 +5,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.23.1.45101",
-      "templateHash": "4688811284001364634"
+      "templateHash": "12877503127980317196"
     }
   },
   "parameters": {
@@ -239,6 +239,10 @@
             {
               "name": "ThreatModelNameList",
               "value": ""
+            },
+            {
+              "name": "Statuses",
+              "value": "New, Under Investigation"
             }
           ]
         }
